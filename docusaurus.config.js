@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "AdventureForge documentation",
+  title: "Adventure Forge Documentation",
   tagline: "Tech details and dev follow up",
   url: "https://adventureforge.github.io",
   baseUrl: "/documentation/",
@@ -41,7 +41,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Adventure Forge Documentation",
+        title: "Home",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
@@ -51,7 +51,7 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Tutorial",
+            label: "Documentation",
           },
           { to: "/blog", label: "Dev Diary", position: "left" },
           {
