@@ -15,11 +15,11 @@ Last year, I learnt a little about microservices architecture and microservices 
 
 Today was dedicated to my Spring Microservices skills improvement, and here is my progression so far :
 
-- [x] 1 Welcome to the cloud, Spring
-- [x] 2 Exploring the microservices world with Spring Cloud
-- [x] 3 Building microservices with Spring Boot
-- [x] 4 Welcome to Docker
-- [x] 5 Controlling your configuration with the Spring Cloud Configuration Server
+- [x] :star: 1 Welcome to the cloud, Spring
+- [x] :star: 2 Exploring the microservices world with Spring Cloud
+- [x] :star: 3 Building microservices with Spring Boot
+- [x] :star: 4 Welcome to Docker
+- [ ] 5 Controlling your configuration with the Spring Cloud Configuration Server
 - [ ] 6 On service discovery
 - [ ] 7 When bad things happen: Resiliency patterns with Spring Cloud and Resilience4j
 - [ ] 8 Service routing with Spring Cloud Gateway
@@ -31,4 +31,4 @@ Today was dedicated to my Spring Microservices skills improvement, and here is m
 - [ ] Appendix B. OAuth2 grant types
 - [ ] Appendix C. Monitoring your microservices
 
-![Dice](./spring_microservices_book.jpg)
+![Spring Microservices in Action book cover](./spring_microservices_book.jpg)
