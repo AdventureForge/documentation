@@ -1,41 +1,15 @@
-# Website
+# Adventure Forge Documentation Repository
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This repository hosts the code of the documentation website generated with [Docusaurus](https://docusaurus.io/).
 
-### Installation
+The website is accessible at this address (https://adventureforge.github.io/documentation/).
 
-```
-$ yarn
-```
+## Documentation
 
-### Local Development
+(soon)
 
-```
-$ yarn start
-```
+## Dev Diary
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+I am writing a dev diary about this project, it is updated at least once a week. You'll find it here : (https://adventureforge.github.io/documentation/blog)
 
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+If you are a College representative and you are only interested in the updates about the working days without commit, I post a new article at the end of each of those days. The article is commited to this repo and you will find all of them tagged as [**Mandatory Update**](https://adventureforge.github.io/documentation/blog/tags/mandatory-update) on the blog.
