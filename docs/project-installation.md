@@ -12,7 +12,7 @@ sidebar_position: 2
 
 The first version of this tutorial is based on a version of this project that doesn't run on a local environment. I have made an update of this project the day after the deadline in order to provide a fully working version of this project. I know I went beyond the deadline but I was very frustrated that after hundreds of hours spent on this project I was not able to deliver a working version even if it worked on my production environment and my laptop.
 
-I am fully aware that I can be penalized for going beyond the deadline and fully accept your decision to accept this updated version or not. I have kept both versions (the orginal non working and the new version) in seperate Docker images and I put my updates on a seperate demo branch in order to be fully transparent about what has been modified.
+I am fully aware that I can be penalized for going beyond the deadline and fully accept your decision to accept this updated version or not. I have kept both versions (the orginal non working and the new version) in seperate Docker images and I put my updates on a seperate demo branch in order to be fully transparent about what has been modified. I haven't added any new features, I have just reworked the configuration to make it function.
 
 Below I kept the first version of the tutorial for the non working version and I have added a new tutorial for the working version.
 
